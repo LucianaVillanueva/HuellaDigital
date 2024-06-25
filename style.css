@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #B3E2A7;
+}
+.title{
+  text-align: center;
+  display: flex ;
+  font-size: 70px;
+  justify-content: center;
+  color: #212582;
+  background: rgb(80, 79, 171);
+  border: 4px solid #9697c0;
+}
+.subtitulo{
+  font-size: 40px;
+  font-weight: bold;
+  color:#212582 ;
+}
+.conten1{
+  text-align: center;
+  display: flex ;
+  font-size: 30px;
+  justify-content: center;
+  color: #212582;
+  background: rgb(80, 79, 171);
+  border: 4px solid #9697c0;
+}
+.conten1 img{
+  height: 250px;
+  margin: 20px;
+}
+.conten1 p{
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 1.0;
+}
